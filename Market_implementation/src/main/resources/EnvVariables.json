@@ -1,0 +1,7 @@
+{
+  "testString" : "test",
+  "dbUrl" : "jdbc:ADD_DATABASE_INFO_HERE",
+  "dbUser" : ADD_MySQL_USER_INFO_HERE,
+  "dbPassword" : ADD_MySQL_USER_PASSWORD_HERE,
+  "marketDatabase" : "market"
+}
